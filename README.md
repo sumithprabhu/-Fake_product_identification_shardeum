@@ -5,6 +5,8 @@ A project to verify authenticity of the product.
 
 This project solves the major problem in supply chain management and brings in the option of transparency , which was never an option. Currently the project has a main capability of authentifing the order made by manufacturer and to be delivered to the distributor. Future scope for this project is to implement it completely into supply chain system from end to end points. 
 
+The project's smart contract was deployed upon shardeum testnet, and here is the contract address : 0x30aAA3348A08b014AcE264a64BF07AB4211b2B33
+
 Features:
 -
 - Provides QR code for each order.
