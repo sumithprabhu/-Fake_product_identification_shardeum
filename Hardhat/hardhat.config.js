@@ -10,8 +10,8 @@ module.exports = {
     hardhat: {
     },
     liberty: {
-      url: "https://liberty10.shardeum.org/",
-      chainId: 8080,
+      url: "https://liberty20.shardeum.org/",
+      chainId: 8081,
       accounts:[privateKeys]
     },
   },

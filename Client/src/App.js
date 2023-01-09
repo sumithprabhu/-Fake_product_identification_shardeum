@@ -40,9 +40,9 @@ const App = () => {
 
     // If user is not connected to the Goerli network, let them know and throw an error
     const { chainId } = await web3Provider.getNetwork();
-    if (chainId !== 8080) {
-      window.alert("Change the network to Goerli");
-      throw new Error("Change network to Goerli");
+    if (chainId !== 8081) {
+      window.alert("Change the network to shardeum");
+      throw new Error("Change network to shardeum");
     }
 
     if (needSigner) {
